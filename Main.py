@@ -22,7 +22,7 @@ def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
     while j<len(small_b):
         nums1[k]=small_b[j]
         j+=1
-        k+=
+        k+=1
 # Do not change the following corde
 nums1 = []
 nums2 = []
